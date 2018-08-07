@@ -3,6 +3,7 @@ import React from 'react';
 const VideoListItem = ({video, onVideoSelect}) => {
     // the {video} is completely identical to this line below:
     // const video = props.video; (nice es6 syntax)
+    // this is a bit confused, two layer callback?
 
     // console.log(video); you can always see what properties object have
 

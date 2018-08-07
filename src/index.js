@@ -13,7 +13,7 @@ import ReactDOM from "react-dom"; // or import from node packages
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 import YTSearch from 'youtube-api-search'; // you can see API documentationson their websites
-const API_KEY = ''; // this is from
+const API_KEY = 'AIzaSyBiGC4WxfRTydxCeDb_SmtVft6xPPfBYck'; // this is from
 // your console.developer.google.com
 // then 'npm install --save youtube-api-search'
 // '--save' means auto put this package in your dependencies in .json file
